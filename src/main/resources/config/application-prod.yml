@@ -1,0 +1,14 @@
+
+swagger:
+  base-package: com
+  title: 文件 Api
+  enabled: false
+  authorization:
+    key-name: authorization
+
+config:
+  file-host: 103.119.45.125
+  file-port: 8086
+  file-path: /root/project/img
+  file-url: upload
+  file-type: java,php,py,go
